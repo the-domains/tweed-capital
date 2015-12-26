@@ -1,0 +1,28 @@
+name: Tweed Capital
+favicon: null
+layout_spectrum: 0.6594537773635238
+typography_spectrum: 0.1408768338151276
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2856843122281134
+  lightness: 0.17945333034731448
+  saturation: 0.04815701302140951
+  rhythmicContrast: 0.01811232278123498
+purpose: []
